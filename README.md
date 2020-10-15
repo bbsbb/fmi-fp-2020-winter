@@ -11,4 +11,4 @@
 
 **Weeks**
 
-    No weeks yet, because it's week 1 and 1 is less than 2.
+- [Week 2 (Racket)](https://github.com/bbsbb/fmi-fp-2020-winter/tree/master/week-02) - Define, predicates, numerical exercises.
