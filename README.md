@@ -15,3 +15,5 @@
 - [Week 3 (Racket)](https://github.com/bbsbb/fmi-fp-2020-winter/tree/master/week-03) - Lambdas & let.
 - [Week 4 (Racket)](https://github.com/bbsbb/fmi-fp-2020-winter/tree/master/week-04) - Starting on lists.
 - [Week 5 (Racket)](https://github.com/bbsbb/fmi-fp-2020-winter/tree/master/week-05) - More collections, map, filter, apply.
+- [Week 6 (Racket)](https://github.com/bbsbb/fmi-fp-2020-winter/tree/master/week-06) - More higher order functions on collections
+- [Week 7 (Racket)](https://github.com/bbsbb/fmi-fp-2020-winter/tree/master/week-07) - Test prep, some fold.
