@@ -17,3 +17,4 @@
 - [Week 5 (Racket)](https://github.com/bbsbb/fmi-fp-2020-winter/tree/master/week-05) - More collections, map, filter, apply.
 - [Week 6 (Racket)](https://github.com/bbsbb/fmi-fp-2020-winter/tree/master/week-06) - More higher order functions on collections
 - [Week 7 (Racket)](https://github.com/bbsbb/fmi-fp-2020-winter/tree/master/week-07) - Test prep, some fold.
+- [Week 8 (Racket)](https://github.com/bbsbb/fmi-fp-2020-winter/tree/master/week-08) - Bye bye Racket!
