@@ -18,3 +18,4 @@
 - [Week 6 (Racket)](https://github.com/bbsbb/fmi-fp-2020-winter/tree/master/week-06) - More higher order functions on collections
 - [Week 7 (Racket)](https://github.com/bbsbb/fmi-fp-2020-winter/tree/master/week-07) - Test prep, some fold.
 - [Week 8 (Racket)](https://github.com/bbsbb/fmi-fp-2020-winter/tree/master/week-08) - Bye bye Racket!
+- [Week 9 (Haskell)](https://github.com/bbsbb/fmi-fp-2020-winter/tree/master/week-09) - We hit the ground running with collections & pattern matchin
