@@ -20,3 +20,4 @@
 - [Week 8 (Racket)](https://github.com/bbsbb/fmi-fp-2020-winter/tree/master/week-08) - Bye bye Racket!
 - [Week 9 (Haskell)](https://github.com/bbsbb/fmi-fp-2020-winter/tree/master/week-09) - We hit the ground running with collections & pattern matchin
 - [Week 10 (Haskell)](https://github.com/bbsbb/fmi-fp-2020-winter/tree/master/week-10) - Some more collections, briefly about typeclasses and we mention list comprehension, higher order functions.
+- [Week 11 (Haskell)](https://github.com/bbsbb/fmi-fp-2020-winter/tree/master/week-11) - Exercise on primes, BW transform, playing with fold and lambdas.
